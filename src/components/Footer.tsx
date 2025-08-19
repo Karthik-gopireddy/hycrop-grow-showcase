@@ -8,7 +8,7 @@ const Footer = () => {
             <img 
               src="/lovable-uploads/919d61d6-7051-4fb9-8dfe-8845d5050613.png" 
               alt="HYCROP Logo" 
-              className="h-12 w-auto mb-4 brightness-0 invert"
+              className="h-12 w-auto mb-4"
             />
             <p className="text-background/80 leading-relaxed">
               Leading agricultural solutions provider, committed to cultivating trust and harvesting success for farmers worldwide.
@@ -51,7 +51,7 @@ const Footer = () => {
 
         <div className="border-t border-background/20 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-background/60 text-sm">
-            © 2024 HYCROP Agri Solutions Pvt. Ltd. All rights reserved.
+            © 2025 HYCROP Agri Solutions Pvt. Ltd. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="text-background/60 hover:text-background transition-colors text-sm">Privacy Policy</a>
